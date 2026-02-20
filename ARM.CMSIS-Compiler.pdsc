@@ -13,14 +13,8 @@
   <repository type="git">https://github.com/ARM-software/CMSIS-Compiler.git</repository>
 
   <releases>
-    <release version="2.2.0-dev">
+    <release version="2.2.1-dev">
       Active Development ...
-      Add components that enable stdio retarget to UART
-      AC6:
-      - Corrected _sys_read return value when rt_fs_read returns with error (#62)
-      IAR:
-      - Added support for multithreading (#57)
-      - Added support for file redirection (#58)
     </release>
   </releases>
 
